@@ -1,0 +1,4 @@
+[package]
+name = "variable_bindings"
+version = "0.0.1"
+authors = [ "Connor" ]
