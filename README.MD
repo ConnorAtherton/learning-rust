@@ -88,3 +88,4 @@ library crates as dependencies.
 - Bindings are required to be initialized with a value before you're allowed to use them.
 - Has block scope within braces `{}`
 - You must declare the types of all function arguments.
+- All primitive types implement the `Copy` trait.

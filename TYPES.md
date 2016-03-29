@@ -1,0 +1,4 @@
+- Tuple
+- Struct
+- TupleStruct (not used much)
+- Enum
